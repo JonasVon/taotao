@@ -1,0 +1,12 @@
+com\jonas\mapper\TbUserMapper.class
+com\jonas\mapper\TbItemParamItemMapper.class
+com\jonas\mapper\TbOrderItemMapper.class
+com\jonas\mapper\TbItemParamMapper.class
+com\jonas\mapper\TbContentMapper.class
+com\jonas\mapper\TbContentCategoryMapper.class
+com\jonas\mapper\TbItemMapper.class
+com\jonas\mapper\TbOrderMapper.class
+com\jonas\mapper\TbOrderShippingMapper.class
+com\jonas\mapper\TbItemDescMapper.class
+com\jonas\mapper\TbItemCatMapper.class
+com\jonas\mapper\TestMapper.class
